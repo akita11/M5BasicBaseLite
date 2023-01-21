@@ -4,6 +4,8 @@
 
 <img src="https://github.com/akita11/M5BasicBaseLite/blob/master/M5BasicBaseLite2.jpg" width="240px">
 
+<img src="https://github.com/akita11/M5BasicBaseLite/blob/master/M5BasicBaseLite3.jpg" width="240px">
+
 M5Stackの上部本体(Core Basic)にとりつけて、以下のようなM5GO/Fireの機能やそれ以外の機能を追加できる底板（ベースボード）用の拡張基板です。
 [M5GOBaseLite](https://github.com/akita11/M5GOBaseLite)の後継機で、基本的な機能・回路は同一で、裏面のメスMbusコネクタが使えるようになりました。
 - Groveコネクタ(PortA(2個), PortB, PortC, PortD, PortE)（PortA/B/CはM5Stack純正のものと同等です。PortD/EはM5Stack純正品にはありませんが、UI Flowで使用することができるポートです）
