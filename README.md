@@ -1,10 +1,10 @@
 # M5BasicBaseLite
 
-<img src="https://github.com/akita11/M5BasicBaseLite/blob/master/M5BasicBaseLite1.jpg" width="240px">
+<img src="https://github.com/akita11/M5BasicBaseLite/blob/main/M5BasicBaseLite1.jpg" width="240px">
 
-<img src="https://github.com/akita11/M5BasicBaseLite/blob/master/M5BasicBaseLite2.jpg" width="240px">
+<img src="https://github.com/akita11/M5BasicBaseLite/blob/main/M5BasicBaseLite2.jpg" width="240px">
 
-<img src="https://github.com/akita11/M5BasicBaseLite/blob/master/M5BasicBaseLite3.jpg" width="240px">
+<img src="https://github.com/akita11/M5BasicBaseLite/blob/main/M5BasicBaseLite3.jpg" width="240px">
 
 M5Stackの上部本体(Core Basic)にとりつけて、以下のようなM5GO/Fireの機能やそれ以外の機能を追加できる底板（ベースボード）用の拡張基板です。
 [M5GOBaseLite](https://github.com/akita11/M5GOBaseLite)の後継機で、基本的な機能・回路は同一で、裏面のメスMbusコネクタが使えるようになりました。
